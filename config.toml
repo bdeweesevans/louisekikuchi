@@ -2,3 +2,9 @@ baseURL = 'https://louisekikuchi.netlify.app/'
 languageCode = 'en-us'
 title = 'Louise Kikuchi'
 theme = 'hugo-book'
+
+[minify]
+  disableXML = true # Optional: Do not minify XML files
+  minifyOutput = true # Optional: Minify HTML output
+  minifyCSS = true # Optional: Minify CSS files
+  minifyJS = true # Optional: Minify JavaScript files
