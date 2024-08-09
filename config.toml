@@ -1,4 +1,4 @@
-baseURL = 'https://louisekikuchi.netlify.app'
+baseURL = 'https://louisekikuchi.netlify.app/'
 languageCode = 'en-us'
 title = 'Louise Kikuchi'
 theme = 'hugo-book'
