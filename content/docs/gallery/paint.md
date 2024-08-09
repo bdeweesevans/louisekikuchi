@@ -10,19 +10,19 @@ BookToC: false
 
 ## New Moon
 
-![New Moon, Image 1](/images/gallery/New_Moon1.webp)
+![New Moon, Image 1](/images/gallery/New_Moon1.webp)  
 Price: $1250.  
 Status: Sold.  
 Description: ink and gansai on paper. Framed, 20 x 20 inches.
 
 <--->
 
-## Raindrop #3
+## Autumn Dusk
 
-![Raindrop #3, Image 1](/images/gallery/RaindropThree1.webp)
+![Autumn Dusk, Image 1](/images/gallery/Autumn_Dusk1.webp)  
 Price: N/A.  
-Status: Sold.  
-Description: Sumi and gansai on paper. Unframed, 7 x 7 inches.
+Status: N/A  
+Description: Sumi and gansai on paper. Framed, 16 x 16 inches.
 
 {{< /columns >}}
 
@@ -30,7 +30,7 @@ Description: Sumi and gansai on paper. Unframed, 7 x 7 inches.
 
 ## Rain and Moss-covered Rock
 
-![Rain and Moss-covered Rock, Image 1](/images/gallery/Rain_and_Moss_covered_Rock1.webp)
+![Rain and Moss-covered Rock, Image 1](/images/gallery/Rain_and_Moss_covered_Rock1.webp)  
 Price: N/A.  
 Status: Sold.  
 Description: Sumi and gansai on paper. Framed, 10.25 x 27.25 inches.
@@ -39,7 +39,7 @@ Description: Sumi and gansai on paper. Framed, 10.25 x 27.25 inches.
 
 ## Clouds
 
-![Clouds, Image 1](/images/gallery/Clouds1.webp)
+![Clouds, Image 1](/images/gallery/Clouds1.webp)  
 Price: N/A.  
 Status: Sold.  
 Description: Sumi and gansai on paper. Framed, 35 x 27.25 inches.
@@ -48,12 +48,12 @@ Description: Sumi and gansai on paper. Framed, 35 x 27.25 inches.
 
 {{< columns >}}
 
-## Autumn Dusk
+## Raindrop #3
 
-![Autumn Dusk, Image 1](/images/gallery/Autumn_Dusk1.webp)
+![Raindrop #3, Image 1](/images/gallery/RaindropThree1.webp)  
 Price: N/A.  
-Status: N/A  
-Description: Sumi and gansai on paper. Framed, 16 x 16 inches.
+Status: Sold.  
+Description: Sumi and gansai on paper. Unframed, 7 x 7 inches.
 
 <--->
 

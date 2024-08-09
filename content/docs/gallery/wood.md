@@ -4,6 +4,7 @@ weight: 2
 bookToc: false
 ---
 
+
 # Wood
 
 {{< columns >}}
@@ -20,5 +21,16 @@ Description: Sumi and gansai on wood.
 Price: $800.  
 Status: For Sale.  
 Description: Sumi and gansai on wood. 12 x 2.5 inches.
+
+{{< /columns >}}
+
+{{< columns >}}
+
+## [Unnamed]
+![Unnamed Image 1](/images/gallery/Kokeshi4.webp)
+Prices: $500 Ea.  
+Description: Sumi and gansai on wood. 40, 31, & 36 centimeters.
+
+<--->
 
 {{< /columns >}}

@@ -4,9 +4,11 @@ title: Contact
 BookToC: false
 ---
 
-for purchase inquiries, please contact me below
+# Contact
 
 ## Email
+
+For purchase and other inquiries, please contact below.
 
 {{< rawhtml >}}
 <form name="contact" netlify data-netlify-recaptcha="true">
