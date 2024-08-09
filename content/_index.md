@@ -8,7 +8,7 @@ BookToC: false
 
 {{< columns >}}
 
-![Saint-Briac-Sur-Mer 2024 Exposition, Image 1](/images/exhibitions/exposition1.webp)
+![Saint-Briac-Sur-Mer 2024 Exposition, Image 1](/images/exhibitions/exposition1.webp)  
 
 <--->
 
@@ -21,8 +21,6 @@ Location:
 Rue de la Mairie  
 Les Halles  
 35800 - Saint-Briac-sur-Mer
-
-![Image 1 of Exhibition](/images/exhibitions/sbsm1.webp)
 
 {{< /columns >}}
 
