@@ -22,7 +22,7 @@ Description: ink and gansai on paper. Framed, 20 x 20 inches.
 ![Raindrop #3, Image 1](/images/gallery/RaindropThree1.webp)
 Price: N/A.  
 Status: Sold.  
-Description: Sumi and gansai on paper. Unramed, 7 x 7 inches.
+Description: Sumi and gansai on paper. Unframed, 7 x 7 inches.
 
 {{< /columns >}}
 
@@ -30,7 +30,7 @@ Description: Sumi and gansai on paper. Unramed, 7 x 7 inches.
 
 ## Rain and Moss-covered Rock
 
-![Rain and Moss-covered Rock, Image 1](/images/gallery/Rain_and_Moss_covered_Rock.webp)
+![Rain and Moss-covered Rock, Image 1](/images/gallery/Rain_and_Moss_covered_Rock1.webp)
 Price: N/A.  
 Status: Sold.  
 Description: Sumi and gansai on paper. Framed, 10.25 x 27.25 inches.
